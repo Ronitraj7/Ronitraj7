@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated GIF or PNG Banner (Upload banner.gif or banner.png to your repository) -->
-<img src="./banner.gif" alt="Ronitraj Yadav Profile Banner" width="100%" />
+<img src="./ronitraj-yadav-banner.png" alt="Ronitraj Yadav Profile Banner" width="100%" />
 
 # Hi there, I'm Ronitraj Yadav 👋
 ### Full Stack Developer • Based in Mumbai, India
