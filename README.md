@@ -1,22 +1,22 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="./ronitraj-yadav-animated.gif" alt="RONITRAJ YADAV Profile Banner" width="100%" />
+<img src="./ronitraj-yadav-animated.gif" alt="Ronitraj Yadav Banner" width="100%" />
 
 <br/><br/>
 
-# 👋 Hi, I'm RONITRAJ YADAV
+# 👋 Hi, I'm Ronitraj Yadav
 
-### 🚀 Full Stack Developer & Cybersecurity Enthusiast
+### 🚀 Full Stack Developer • AI • Cybersecurity
 
 <br/>
 
-<!-- Digital Portfolio Callout Badge -->
+<!-- Digital Portfolio Featured Badge -->
 [![Explore My Digital Portfolio](https://img.shields.io/badge/✨_Explore_My_Live_Digital_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://ronitraj-yadav-portfolio.netlify.app/)
 
 <br/><br/>
 
-<!-- Quick Stats Card with Styled Dark Background -->
+<!-- Quick Stats Styled Card -->
 <table align="center" width="100%">
   <tr>
     <td align="left" style="background-color: #0d1117; padding: 22px; border-radius: 12px; border: 1px solid #30363d; color: #c9d1d9;">
@@ -34,7 +34,7 @@
 
 <br/>
 
-<!-- About Me Card with Styled Dark Background -->
+<!-- About Me Styled Card -->
 <table align="center" width="100%">
   <tr>
     <td align="left" style="background-color: #0d1117; padding: 22px; border-radius: 12px; border: 1px solid #30363d; color: #c9d1d9;">
@@ -82,7 +82,21 @@
 
 <br/>
 
-<!-- Achievements Card -->
+<!-- GitHub Analytics Section -->
+### 📊 GitHub Activity & Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronitraj7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitraj7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronitraj7&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
+
+<br/>
+
+<!-- Achievements Styled Card -->
 <table align="center" width="100%">
   <tr>
     <td align="left" style="background-color: #0d1117; padding: 22px; border-radius: 12px; border: 1px solid #30363d; color: #c9d1d9;">
@@ -110,8 +124,8 @@
 
 <br/>
 
-<!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=ronitrajyadav&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- Profile Visitor Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Ronitraj7&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
