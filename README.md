@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="./ronitraj-yadav-animated.gif" alt="Ronitraj Yadav Banner" width="100%" />
+<img src="./ronitraj-yadav-animated.gif" alt="Ronitraj Yadav Profile Banner" width="100%" />
 
 <br/><br/>
 
@@ -11,12 +11,12 @@
 
 <br/>
 
-<!-- Digital Portfolio Featured Badge -->
+<!-- Digital Portfolio Callout Badge -->
 [![Explore My Digital Portfolio](https://img.shields.io/badge/✨_Explore_My_Live_Digital_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://ronitraj-yadav-portfolio.netlify.app/)
 
 <br/><br/>
 
-<!-- Quick Stats Styled Card -->
+<!-- Quick Stats Card with Styled Dark Background -->
 <table align="center" width="100%">
   <tr>
     <td align="left" style="background-color: #0d1117; padding: 22px; border-radius: 12px; border: 1px solid #30363d; color: #c9d1d9;">
@@ -34,7 +34,7 @@
 
 <br/>
 
-<!-- About Me Styled Card -->
+<!-- About Me Card with Styled Dark Background -->
 <table align="center" width="100%">
   <tr>
     <td align="left" style="background-color: #0d1117; padding: 22px; border-radius: 12px; border: 1px solid #30363d; color: #c9d1d9;">
@@ -51,38 +51,38 @@
 
 <br/>
 
-<!-- Tech Stack Section -->
+<!-- Tech Stack Section with Uniform Matte Dark Badges -->
 ### 🛠️ Tech Stack & Skills
 
 #### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-101216?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-101216?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-101216?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-101216?style=for-the-badge&logo=javascript&logoColor=white)
 
 #### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-101216?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-101216?style=for-the-badge&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-101216?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-101216?style=for-the-badge&logo=php&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/.NET-101216?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-101216?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-101216?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-101216?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 #### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-101216?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-101216?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-101216?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-101216?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-101216?style=for-the-badge&logo=linux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-101216?style=for-the-badge&logo=postman&logoColor=white)
 
 <br/>
 
-<!-- Achievements Styled Card -->
+<!-- Achievements Card with Styled Dark Background -->
 <table align="center" width="100%">
   <tr>
     <td align="left" style="background-color: #0d1117; padding: 22px; border-radius: 12px; border: 1px solid #30363d; color: #c9d1d9;">
@@ -110,7 +110,7 @@
 
 <br/>
 
-<!-- Profile Visitor Counter -->
+<!-- Visitor Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Ronitraj7&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
