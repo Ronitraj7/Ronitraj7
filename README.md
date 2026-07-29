@@ -5,18 +5,18 @@
 
 <br/><br/>
 
-# 👋 Hi, I'm Ronitraj Yadav
+# 👋 Hi, I'm RONITRAJ YADAV
 
-### 🚀 Full Stack Developer • AI • Cybersecurity
+### 🚀 Full Stack Developer & Cybersecurity Enthusiast
 
 <br/>
 
-<!-- Digital Portfolio Live Badge -->
+<!-- Digital Portfolio Callout Badge -->
 [![Explore My Digital Portfolio](https://img.shields.io/badge/✨_Explore_My_Live_Digital_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://ronitraj-yadav-portfolio.netlify.app/)
 
 <br/><br/>
 
-<!-- ⚡ Quick Stats Card with Dark Background -->
+<!-- Quick Stats Card with Styled Dark Background -->
 <table align="center" width="100%">
   <tr>
     <td align="left" style="background-color: #0d1117; padding: 22px; border-radius: 12px; border: 1px solid #30363d; color: #c9d1d9;">
@@ -34,7 +34,7 @@
 
 <br/>
 
-<!-- 🙋 About Me Card with Dark Background -->
+<!-- About Me Card with Styled Dark Background -->
 <table align="center" width="100%">
   <tr>
     <td align="left" style="background-color: #0d1117; padding: 22px; border-radius: 12px; border: 1px solid #30363d; color: #c9d1d9;">
@@ -51,7 +51,7 @@
 
 <br/>
 
-<!-- 🛠️ Tech Stack Section -->
+<!-- Tech Stack Section -->
 ### 🛠️ Tech Stack & Skills
 
 #### Frontend
@@ -82,7 +82,21 @@
 
 <br/>
 
-<!-- 🏆 Achievements Card -->
+<!-- GitHub Analytics Section -->
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronitrajyadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="RONITRAJ YADAV's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitrajyadav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronitrajyadav&theme=tokyonight&hide_border=true" alt="RONITRAJ YADAV's Streak" width="97%" />
+</p>
+
+<br/>
+
+<!-- Achievements Card -->
 <table align="center" width="100%">
   <tr>
     <td align="left" style="background-color: #0d1117; padding: 22px; border-radius: 12px; border: 1px solid #30363d; color: #c9d1d9;">
@@ -98,7 +112,7 @@
 
 <br/>
 
-<!-- 📫 Connect With Me Section -->
+<!-- Connect With Me Section -->
 ### 📫 Connect With Me
 
 <p align="center">
@@ -110,8 +124,8 @@
 
 <br/>
 
-<!-- Visitor Counter Badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=Ronitraj7&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- Visitor Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=ronitrajyadav&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
