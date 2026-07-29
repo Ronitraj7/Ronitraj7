@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner (Ensure 'ronitraj-yadav-animation.gif' is uploaded to your repo root) -->
-<img src="./ronitraj-yadav-animation.gif" alt="ronitraj-yadav-banner.png" width="100%" />
+<img src="ronitraj-yadav-animation.gif" alt="ronitraj-yadav-banner.png" width="100%" />
 
 # Hi there, I'm Ronitraj Yadav 👋
 ### Full Stack Developer • Based in Mumbai, India
