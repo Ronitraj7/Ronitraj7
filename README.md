@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="./ronitraj-yadav-animated.gif" alt="Ronitraj Yadav Profile Banner" width="100%" />
+<img src="./ronitraj-yadav-animated.gif" alt="RONITRAJ YADAV Profile Banner" width="100%" />
 
 <br/><br/>
 
