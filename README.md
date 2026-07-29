@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Profile Banner (Make sure loop is set to infinite) -->
-<img src="https://raw.githubusercontent.com/Ronitraj7/Ronitraj7/main/ronitraj-yadav-animation.gif" alt="Ronitraj Yadav Profile Animation" width="100%" />
+<img src="ronitraj-yadav-banner.png" alt="Ronitraj Yadav Profile Banner" width="100%" />
 
 # Hi there, I'm Ronitraj Yadav 👋
 ### Full Stack Developer • Based in Mumbai, India
@@ -23,4 +23,25 @@ Designing high-performance web applications, scalable backends, and responsive u
 
 ---
 *Crafted with BannerStudio Pro 🚀*
+</div>
+
+<!-- Live Animated Profile Header Component -->
+<div className="profile-banner-card" style="
+  background: linear-gradient(135deg, #0F172A, #1E1B4B, #31103F, #0F172A);
+  border-radius: 16px;
+  padding: 32px;
+  color: white;
+  font-family: 'Outfit', sans-serif;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+">
+  <div style="display: flex; align-items: center; gap: 24px;">
+    <img src="https://github.com/Ronitraj7.png" alt="Ronitraj Yadav" style="width: 80px; height: 80px; border-radius: 50%; border: 3px solid #6366F1;" />
+    <div>
+      <h2 style="margin: 0; font-size: 28px; background: linear-gradient(90deg, #818CF8, #C084FC, #E879F9); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+        Ronitraj Yadav
+      </h2>
+      <p style="margin: 4px 0 0 0; color: #6366F1; font-weight: 600;">Full Stack Developer</p>
+      <p style="margin: 8px 0 0 0; font-size: 14px; opacity: 0.8;">🚀 Open for Opportunities</p>
+    </div>
+  </div>
 </div>
