@@ -82,20 +82,6 @@
 
 <br/>
 
-<!-- GitHub Analytics Section -->
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronitrajyadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="RONITRAJ YADAV's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitrajyadav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronitrajyadav&theme=tokyonight&hide_border=true" alt="RONITRAJ YADAV's Streak" width="97%" />
-</p>
-
-<br/>
-
 <!-- Achievements Card -->
 <table align="center" width="100%">
   <tr>
